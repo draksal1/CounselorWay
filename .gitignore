@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Microsoft Visual Studio
+.idea/
+.vs/
+bin/
+obj/
+*.csproj
+*.csproj.user
+*.sln
+.dockerignore
+Dockerfile
+appsettings.Development.json
