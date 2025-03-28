@@ -178,9 +178,7 @@ cython_debug/
 .vs/
 bin/
 obj/
-*.csproj
 *.csproj.user
-*.sln
 .dockerignore
 Dockerfile
 appsettings.Development.json
