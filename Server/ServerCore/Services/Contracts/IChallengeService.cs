@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using ServerCore.Models;
+using ServerCore.Models.Database;
 
 namespace ServerCore.Services.Contracts
 {

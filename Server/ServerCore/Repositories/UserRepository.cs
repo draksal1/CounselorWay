@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using ServerCore.Models;
+﻿using ServerCore.Models.Database;
 
 namespace ServerCore.Repositories
 {
@@ -27,15 +25,6 @@ namespace ServerCore.Repositories
         public bool RemoveUser(Guid id)
         {
             return _users.Remove(id);
-        }
-
-        public bool AssignGeneralChallengeToUser(Guid userId, Guid challengeId)
-        {
-            if (!_users.TryGetValue(userId, out var user))
-                return false;
-
-            user.AddGeneralChallenge(challengeId);
-            return true;
         }
     }
 }
