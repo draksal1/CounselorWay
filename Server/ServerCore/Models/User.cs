@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using ServerCore.Models.Enums;
 
 namespace ServerCore.Models
 {
@@ -8,48 +10,13 @@ namespace ServerCore.Models
         public string Name { get; set; }
         public int Age { get; set; }
         public Characteristics Characteristics { get; } = new Characteristics();
-
-        private List<KeyValuePair<Guid, bool>> _personalChallenges = new();
-        private List<KeyValuePair<Guid, bool>> _generalChallenges = new();
+        public Dictionary<Guid, List<Guid>> CompletedMapChallenges { get; set; } = new();
+        public Dictionary<Guid, bool> PersonalChallenges { get; set; } = new();
 
         public User(string name, int age)
         {
             Name = name;
             Age = age;
-        }
-
-        public void AddPersonalChallenge(Guid challengeId)
-        {
-            _personalChallenges.Add(new KeyValuePair<Guid, bool>(challengeId, false));
-        }
-
-        public void CompletePersonalChallenge(Guid challengeId)
-        {
-            var index = _personalChallenges.FindIndex(x => x.Key == challengeId);
-            if (index != -1)
-            {
-                _personalChallenges[index] = new KeyValuePair<Guid, bool>(challengeId, true);
-            }
-        }
-
-        public void AddGeneralChallenge(Guid challengeId)
-        {
-            _generalChallenges.Add(new KeyValuePair<Guid, bool>(challengeId, false));
-        }
-
-        public void CompleteGeneralChallenge(Guid challengeId)
-        {
-            var index = _generalChallenges.FindIndex(x => x.Key == challengeId);
-            if (index != -1)
-            {
-                _generalChallenges[index] = new KeyValuePair<Guid, bool>(challengeId, true);
-            }
-        }
-
-        public IEnumerable<Guid> GetIncompleteChallenges()
-        {
-            return _personalChallenges.Where(x => !x.Value).Select(x => x.Key)
-                .Concat(_generalChallenges.Where(x => !x.Value).Select(x => x.Key));
         }
     }
 }

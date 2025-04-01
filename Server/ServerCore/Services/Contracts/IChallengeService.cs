@@ -6,9 +6,9 @@ namespace ServerCore.Services.Contracts
 {
     public interface IChallengeService
     {
-        Guid CreatePersonalChallenge(string name, string description, int cost);
-        Guid CreateGeneralChallenge(string name, string description, int cost);
-        bool CompleteChallenge(Guid userId, Guid challengeId);
-        IEnumerable<Challenge> GetAvailableChallenges(Guid userId);
+        bool AssignPersonalChallenge(Guid userId, Challenge challenge);
+        bool CompleteLocationChallenge(Guid userId, Guid mapId, Guid challengeId);
+        bool CompletePersonalChallenge(Guid userId, Guid challengeId);
+        IEnumerable<Challenge> GetAvailableChallenges(Guid userId, Guid seasonId);
     }
 }
