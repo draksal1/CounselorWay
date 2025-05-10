@@ -9,5 +9,7 @@ namespace ServerCore.Services.Contracts
         bool AddLocationChallengeToMap(Guid mapId, Challenge challenge);
         CampSeason GetSeason(Guid id);
         ChallengeMap GetChallengeMap(Guid id);
+
+        bool AddUserToSeason(Guid seasonId, Guid userId);
     }
 }

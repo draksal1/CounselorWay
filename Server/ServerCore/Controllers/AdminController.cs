@@ -64,5 +64,14 @@ namespace ServerCore.Controllers
             var map = _seasonService.GetChallengeMap(mapId);
             return map != null && map.CampSeasonId == seasonId ? Ok(map) : NotFound();
         }
+
+
+        [HttpPost("season/{seasonId}/user/{userId}")]
+        public IActionResult AddUserToSeason(Guid seasonId, Guid userId)
+        {
+            var result = _seasonService.AddUserToSeason(seasonId, userId);
+            return result ? Ok() : BadRequest("Не удалось добавить пользователя в смену");
+        }
+
     }
 }
