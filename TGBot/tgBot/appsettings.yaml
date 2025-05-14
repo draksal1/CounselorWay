@@ -1,0 +1,5 @@
+bot:
+  token: "8097281688:AAFGx0ySvNg5WqIoD0CNI_IG5hhcAh1QTcc"
+  admin_id: 723939850
+api:
+  base_url: "https://your-backend.example.com/api"

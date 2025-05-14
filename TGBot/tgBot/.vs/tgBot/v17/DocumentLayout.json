@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\conversation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:handlers\\conversation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\start.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:handlers\\start.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\user_handlers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:handlers\\user_handlers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\appsettings.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:appsettings.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:utils\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\services\\api_client.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:services\\api_client.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\services\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:services\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\admin_handlers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:handlers\\admin_handlers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:handlers\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\entities.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:models\\entities.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\states.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:models\\states.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\decorators.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:utils\\decorators.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:utils\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA239800-1B23-421A-8CDB-CB1400105858}|tgBot.pyproj|solutionrelative:models\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "logger.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\logger.py",
+              "RelativeDocumentMoniker": "utils\\logger.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\logger.py",
+              "RelativeToolTip": "utils\\logger.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:53:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "decorators.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\decorators.py",
+              "RelativeDocumentMoniker": "utils\\decorators.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\decorators.py",
+              "RelativeToolTip": "utils\\decorators.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:53:39.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "__init__.py (utils)",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\__init__.py",
+              "RelativeDocumentMoniker": "utils\\__init__.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\utils\\__init__.py",
+              "RelativeToolTip": "utils\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:53:13.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "entities.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\entities.py",
+              "RelativeDocumentMoniker": "models\\entities.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\entities.py",
+              "RelativeToolTip": "models\\entities.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:52:42.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "states.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\states.py",
+              "RelativeDocumentMoniker": "models\\states.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\states.py",
+              "RelativeToolTip": "models\\states.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:52:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "__init__.py (models)",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\__init__.py",
+              "RelativeDocumentMoniker": "models\\__init__.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\models\\__init__.py",
+              "RelativeToolTip": "models\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:52:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "api_client.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\services\\api_client.py",
+              "RelativeDocumentMoniker": "services\\api_client.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\services\\api_client.py",
+              "RelativeToolTip": "services\\api_client.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:51:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "__init__.py (services)",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\services\\__init__.py",
+              "RelativeDocumentMoniker": "services\\__init__.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\services\\__init__.py",
+              "RelativeToolTip": "services\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:51:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "conversation.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\conversation.py",
+              "RelativeDocumentMoniker": "handlers\\conversation.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\conversation.py",
+              "RelativeToolTip": "handlers\\conversation.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:51:11.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user_handlers.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\user_handlers.py",
+              "RelativeDocumentMoniker": "handlers\\user_handlers.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\user_handlers.py",
+              "RelativeToolTip": "handlers\\user_handlers.py",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswE4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:50:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin_handlers.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\admin_handlers.py",
+              "RelativeDocumentMoniker": "handlers\\admin_handlers.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\admin_handlers.py",
+              "RelativeToolTip": "handlers\\admin_handlers.py",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:50:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "start.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\start.py",
+              "RelativeDocumentMoniker": "handlers\\start.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\start.py",
+              "RelativeToolTip": "handlers\\start.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:50:34.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "__init__.py (handlers)",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\__init__.py",
+              "RelativeDocumentMoniker": "handlers\\__init__.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\handlers\\__init__.py",
+              "RelativeToolTip": "handlers\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:50:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\config.py",
+              "RelativeDocumentMoniker": "config.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\config.py",
+              "RelativeToolTip": "config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:50:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-14T12:48:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-14T12:48:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.yaml",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\appsettings.yaml",
+              "RelativeDocumentMoniker": "appsettings.yaml",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\appsettings.yaml",
+              "RelativeToolTip": "appsettings.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-14T12:48:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\Lavrinenko\\source\\repos\\CounselorWay\\TGBot\\tgBot\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T12:45:33.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

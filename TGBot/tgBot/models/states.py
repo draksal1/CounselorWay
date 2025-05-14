@@ -1,0 +1,4 @@
+# Состояния для ConversationHandler
+WAITING_FOR_USERNAME = 1
+WAITING_FOR_GROUP_NAME = 2
+ADDING_TASKS = 3
